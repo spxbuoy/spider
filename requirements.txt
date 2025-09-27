@@ -3,3 +3,7 @@ tgcrypto
 aiohttp
 httpx
 pycountry
+bs4
+python-telegram-bot
+pyrogram
+pycountry
