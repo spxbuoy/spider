@@ -30,7 +30,7 @@ from telegram.constants import ParseMode
 # here we go
 
 # Bot token
-TOKEN = "8361809176:AAH1f6N--sTzQd3Y8aMaqXJ1DVQMfns_Sbs"
+TOKEN = "8499248970:AAE0SDZ4K2QwLYKncgmrC0Zt2xaNIx8NNvo"
 
 # List of accounts for load balancing
 ACCOUNTS = [
@@ -1121,7 +1121,7 @@ async def b3_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     # Create inline keyboard for the response
     keyboard = [
         [
-            InlineKeyboardButton("𝗖𝗛𝗔𝗡𝗡𝗘𝗟", url="https://t.me/+v5XUCKwSzlE5MDU0"),
+            InlineKeyboardButton("𝗖𝗛𝗔𝗡𝗡𝗘𝗟", url="htt"),
             InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/spid_3r")
         ]
     ]
@@ -1180,7 +1180,7 @@ async def mb3_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     # Create inline keyboard for responses
     keyboard = [
         [
-            InlineKeyboardButton("𝗖𝗛𝗔𝗡𝗡𝗘𝗟", url="https://t.me/+v5XUCKwSzlE5MDU0"),
+            InlineKeyboardButton("𝗖𝗛𝗔𝗡𝗡𝗘𝗟", url="https://t.me/+SuLZlQz6seQxYWRl"),
             InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/spid_3r")
         ]
     ]
